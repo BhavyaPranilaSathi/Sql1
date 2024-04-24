@@ -1,7 +1,6 @@
 Sql 1:
 
 
-
 Problem 1: Big countries
 
 SELECT name, population, area 
